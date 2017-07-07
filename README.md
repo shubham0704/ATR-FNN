@@ -22,7 +22,7 @@ You can see the code implementation in MAMs discussion.ipynb-
 
 **Constraints** -
 
-Generally we need lots of high quality data for neural nets to do a pretty good job on classification but what if you wanted to classification on data that was -
+Generally we need lots of high quality data for neural nets to do a pretty good job on classification but what if you wanted to do classification on data that was -
 1. Highly noisy
 2. Very small in size (here around 1000 samples)
 
@@ -34,7 +34,7 @@ Exact details -
  |    DMN | 870     |    -          | 408   | 
  
       
-I was really skeptic of results this morphological model will get because I could never imagine it could do so better given the constraints. So the results I got by running this dataset on DMN and an MLP are  as follows - 
+I was really skeptic of results this morphological model will get because I could never imagine it could perform this good given the constraints. So the results I got by running this dataset on DMN and an MLP are  as follows - 
 
 
 |MODEL | TRAIN   |TEST |   
@@ -47,7 +47,9 @@ I am pretty sure this can be made better which will be done in my forthcoming wo
 Tested in -
 
 OS - Ubuntu 16.04
+
 Intel core-i7 5500U
+
 8GB RAM
 
 **Acknowledgement** - 
