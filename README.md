@@ -53,7 +53,7 @@ Intel core-i7 5500U
 **Acknowledgement** - 
 I would like to thank Erik Zamora for his code on DMNs. 
 
-**Primary papers used for reference - **
+**Primary papers used for reference -**
 
  	http://ieeexplore.ieee.org/document/5478256/
  	http://ieeexplore.ieee.org/document/7849933/
