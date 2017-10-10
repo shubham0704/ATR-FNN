@@ -52,6 +52,16 @@ Intel core-i7 5500U
 
 8GB RAM
 
+
+**Installation instructions**-
+
+Python3 -
+``pip3 install -r requirements.txt``
+
+Python2 -
+``pip install -r requirements.txt``
+
+
 **Acknowledgement** - 
 I would like to thank Erik Zamora for his code on DMNs. 
 
